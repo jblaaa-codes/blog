@@ -1,4 +1,4 @@
-site_name: jblaaa-codes
+site_name: DevOps and Donuts
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
