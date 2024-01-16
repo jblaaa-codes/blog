@@ -1,6 +1,6 @@
 <p align="center">
-<img class="logo" width= "250" src="./images/logo2-light.jpg#only-light">
-<img class="logo" width= "250" src="./images/logo2-dark.jpg#only-dark">
+<img class="logo" width= "250" src="./images/main_logo.png">
+
 </p>
 # Welcome!
 Welcome to my site! I look forward to sharing technical knowledge with you.
