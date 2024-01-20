@@ -42,7 +42,12 @@ theme:
         name: Switch to light mode
   features:
     - navigation.indexes
+extra:
+  analytics:
+    provider: google
+    property: G-GERRWMV4LG
 nav:
   - Home: 'index.md'
   - About:
     - 'Resume': 'resume.md'
+
